@@ -1,4 +1,10 @@
 /**
+ * Pilpil v1.0.0 - Progressive Image Loading
+ * @link https://github.io/nahid/js-progressive-image-loader
+ * @copyright 2015-2016 Nahid
+ * @license MIT
+ */
+/**
  * JS Progressive Image Loader
  * link http://github.com/nahid/js-progressive-image-loader
  * @extend From https://zafree.github.io/pilpil
