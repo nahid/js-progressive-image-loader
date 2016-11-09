@@ -1,13 +1,13 @@
 {
-  "name": "pilpil",
+  "name": "js-progressive-image-loader",
   "version": "1.0.0",
   "description": "Progressive Image Loading",
   "main": "gulpfile.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "homepage": "https://zafree.github.io/pilpil",
-  "author": "Zafree",
+  "homepage": "https://github.io/nahid/js-progressive-image-loader",
+  "author": "Nahid",
   "license": "MIT",
   "devDependencies": {
     "browser-sync": "^2.12.8",
