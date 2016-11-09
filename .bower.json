@@ -1,0 +1,14 @@
+{
+  "name": "pilpil",
+  "homepage": "https://github.com/zafree/pilpil",
+  "_release": "0fc9d2f4f0",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "0fc9d2f4f090584a3e8efa2a556e6b684137ae83"
+  },
+  "_source": "https://github.com/zafree/pilpil.git",
+  "_target": "*",
+  "_originalSource": "https://github.com/zafree/pilpil.git",
+  "_direct": true
+}
