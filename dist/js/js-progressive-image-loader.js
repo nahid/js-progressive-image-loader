@@ -105,5 +105,5 @@ function startJsPrograssiveImageLoader () {
 
 
  window.onload = function() {
-     startJsPrograssiveImageLoader();
+     //startJsPrograssiveImageLoader();
 }
